@@ -112,12 +112,4 @@ const brandon = {
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&pause=9999&color=39FF14&center=true&vCenter=true&width=700&height=40&lines=%E2%9A%A1+%22Design+with+purpose%2C+build+with+passion%2C+compete+with+heart.%22+%E2%9A%A1" alt="motto"/>
-
-```
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn&stroke=39ff14&strokeWidth=1"/>
-
 </div>
