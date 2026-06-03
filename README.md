@@ -4,7 +4,7 @@
 
 <br/>
 
-<table width="500%" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px;">
+<table width="2000%" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px;">
   <tr>
     <td width="80" align="center" style="padding:20px 12px;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" style="filter:invert(1); opacity:0.85;"/>
