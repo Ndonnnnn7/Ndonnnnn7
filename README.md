@@ -10,7 +10,7 @@
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" style="filter:invert(1); opacity:0.85;"/>
     </td>
     <td align="center" style="padding:18px 8px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=26&pause=1000&color=e6edf3&background=00000000&center=true&vCenter=true&width=480&height=42&lines=Hey!+I+am+Brandon+Geraldo+%F0%9F%91%8B" alt="name"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=26&pause=1000&color=e6edf3&background=00000000&center=true&vCenter=true&width=480&height=42&lines=Hey!+I+am+Brandon+Geraldo" alt="name"/>
       <br/>
       <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=2000&color=8b949e&background=00000000&center=true&vCenter=true&random=false&width=480&height=28&lines=UI%2FUX+Designer+%C2%B7+Front-End+Developer;Brawijaya+University+%7C+Informatics+Engineering;Building+elegant+user+experiences+%F0%9F%8E%A8" alt="subtitle"/>
     </td>
@@ -30,7 +30,7 @@
 ```javascript
 const brandon = {
   name        : "Brandon Geraldo Adji",
-  location    : "Malang, East Java 🇮🇩",
+  location    : "Malang, East Java, Indonesia",
   university  : "Brawijaya University — Informatics Engineering",
 
   roles: [
