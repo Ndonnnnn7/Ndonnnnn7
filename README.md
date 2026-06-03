@@ -4,9 +4,9 @@
 
 <br/>
 
-<table width="10000%" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px;">
+<table width="1000%" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px;">
   <tr>
-    <td width="80" align="center" style="padding:20px 12px;">
+    <td width="120" align="center" style="padding:20px 12px;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" style="filter:invert(1); opacity:0.85;"/>
     </td>
     <td align="center" style="padding:18px 8px;">
@@ -34,8 +34,8 @@ const brandon = {
   university  : "Brawijaya University — Informatics Engineering",
 
   roles: [
-    "🎨 UI/UX Designer",
-    "⚡ Front-End Developer",
+    "UI/UX Designer",
+    "Front-End Developer",
   ],
 
   stack: {
@@ -45,8 +45,8 @@ const brandon = {
   },
 
   currentMission : "Build. Design. Compete. Win.",
-  openTo         : ["Collaborations 🤝", "Internships 💼"],
-  status         : "🟢 Available",
+  openTo         : ["Collaborations ", "Internships "],
+  status         : "Available",
 };
 ```
 
