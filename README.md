@@ -22,7 +22,15 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Ndonnnnn7">
+    <img src="https://komarev.com/ghpvc/?username=Ndonnnnn7&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ndonnnnn7's profile views" />
+  </a>
+</p>
+
 </div>
+
+
 
 ### 👤 `./whoami --verbose`
 
