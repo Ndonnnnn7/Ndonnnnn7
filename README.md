@@ -4,9 +4,9 @@
 
 <br/>
 
-<table width="1000%" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px;">
   <tr>
-    <td width="120" align="center" style="padding:20px 12px;">
+    <td width="80" align="center" style="padding:20px 12px;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" style="filter:invert(1); opacity:0.85;"/>
     </td>
     <td align="center" style="padding:18px 8px;">
@@ -24,18 +24,17 @@
 
 </div>
 
-
 ### 👤 `./whoami --verbose`
 
 ```javascript
 const brandon = {
   name        : "Brandon Geraldo Adji",
-  location    : "Malang, East Java, Indonesia",
+  location    : "Malang, East Java 🇮🇩",
   university  : "Brawijaya University — Informatics Engineering",
 
   roles: [
-    "UI/UX Designer",
-    "Front-End Developer",
+    " UI/UX Designer",
+    " Front-End Developer",
   ],
 
   stack: {
@@ -82,6 +81,18 @@ const brandon = {
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0d0d0d)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0d0d)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0d0d0d)
+
+</div>
+
+---
+
+### 📊 `./github-stats --display`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ndonnnnn7&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=39ff14&icon_color=00ffff&text_color=ffffff&border_color=39ff1450&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="Brandon's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndonnnnn7&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=39ff14&text_color=ffffff&border_color=39ff1450&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 </div>
 
