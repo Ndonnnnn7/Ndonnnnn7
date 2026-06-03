@@ -4,7 +4,7 @@
 
 <br/>
 
-<table width="680" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px; margin: 0 auto;">
+<table width="1200" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px; margin: 0 auto;">
   <tr>
     <td width="90" align="center" style="padding: 20px 10px;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="52" style="opacity:0.85; filter:invert(1);"/>
@@ -23,7 +23,7 @@
 <br/>
 
 </div>
----
+
 
 ### 👤 `./whoami --verbose`
 
