@@ -1,11 +1,20 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=BRANDON%20GERALDO%20ADJI&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=40&desc=%3E_%20UI%2FUX%20Designer%20%2F%2F%20Front-End%20Dev%20%2F%2F%20Informatics%20Student%20%40%20Brawijaya%20University&descAlignY=62&descSize=15&descFontColor=00ffff&stroke=39ff14&strokeWidth=1.5"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&random=false&width=720&height=45&lines=%5BSYSTEM+BOOT%5D+Initializing+Profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%E2%9C%93;%3E_+Crafting+Elegant+User+Experiences+%F0%9F%8E%A8;%3E_+Turning+Wireframes+into+Pixel-Perfect+Reality+%F0%9F%9A%80;%3E_+Competing+%26+Pushing+Limits+%F0%9F%8F%86;%3E_+Always+Learning%2C+Never+Stopping+%E2%9A%A1;%5BSTATUS%5D+Open+for+Collabs+%26+Internships+%F0%9F%9F%A2" alt="Typing SVG" />
-
+<table width="100%" style="background-color:#0d1b2a; border: 2px solid #ccff00; border-radius:12px;">
+  <tr>
+    <td width="80" align="center">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="55"/>
+    </td>
+    <td align="center">
+      <h1 style="color:#ffffff; margin:0;">Hey! I am Brandon 👋</h1>
+      <p style="color:#00ffff; font-family:monospace; margin:4px 0 0;">
+        UI/UX Designer &nbsp;·&nbsp; Front-End Developer
+      </p>
+    </td>
+    <td width="80" align="center">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="55"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
