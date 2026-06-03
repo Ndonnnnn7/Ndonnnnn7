@@ -1,22 +1,28 @@
 <div align="center">
-<table width="100%" style="background-color:#0d1b2a; border: 2px solid #ccff00; border-radius:12px;">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=9999&color=6e7681&center=true&vCenter=true&width=600&height=20&lines=%E2%96%B6+Loading+profile..." alt="loading"/>
+
+<br/>
+
+<table width="680" cellpadding="0" cellspacing="0" style="background:#161b22; border:1px solid #30363d; border-radius:10px; margin: 0 auto;">
   <tr>
-    <td width="80" align="center">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="55"/>
+    <td width="90" align="center" style="padding: 20px 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="52" style="opacity:0.85; filter:invert(1);"/>
     </td>
-    <td align="center">
-      <h1 style="color:#ffffff; margin:0;">Hey! I am Brandon 👋</h1>
-      <p style="color:#00ffff; font-family:monospace; margin:4px 0 0;">
-        UI/UX Designer &nbsp;·&nbsp; Front-End Developer
-      </p>
+    <td align="center" style="padding: 18px 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&pause=1000&color=e6edf3&background=00000000&center=true&vCenter=true&width=380&height=45&lines=Hey!+I+am+Brandon+%F0%9F%91%8B" alt="name"/>
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=2000&color=8b949e&background=00000000&center=true&vCenter=true&random=false&width=380&height=28&lines=UI%2FUX+Designer+%C2%B7+Front-End+Developer;Brawijaya+University+%7C+Informatics;Building+elegant+user+experiences+%F0%9F%8E%A8" alt="subtitle"/>
     </td>
-    <td width="80" align="center">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="55"/>
+    <td width="90" align="center" style="padding: 20px 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="52" style="opacity:0.85; filter:invert(1);"/>
     </td>
   </tr>
 </table>
-</div>
 
+<br/>
+
+</div>
 ---
 
 ### 👤 `./whoami --verbose`
