@@ -72,18 +72,6 @@ const brandon = {
 
 ---
 
-### 📊 `./github-stats --display`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ndonnnnn7&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=39ff14&icon_color=00ffff&text_color=ffffff&border_color=39ff1450&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="Brandon's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndonnnnn7&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=39ff14&text_color=ffffff&border_color=39ff1450&hide_border=false&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
 ### 📈 `./activity-graph --render`
 
 <div align="center">
