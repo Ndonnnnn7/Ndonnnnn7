@@ -98,16 +98,6 @@ const brandon = {
 
 ---
 
-### 📈 `./activity-graph --render`
-
-<div align="center">
-
-[![Brandon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ndonnnnn7&bg_color=0d0d0d&color=39ff14&line=00ffff&point=ff6b35&area=true&hide_border=true&area_color=39ff1430)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ### 🎵 `./now-playing --spotify`
 
 <div align="center">
