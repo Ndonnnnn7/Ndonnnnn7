@@ -24,8 +24,6 @@
 
 </div>
 
-https://komarev.com/ghpvc/?username=Ndonnnnn7
-
 ### 👤 `./whoami --verbose`
 
 ```javascript
